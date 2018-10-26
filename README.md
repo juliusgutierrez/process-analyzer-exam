@@ -1,6 +1,6 @@
 # process-analyzer
 Analyze a TSV file to find ID with highest consumption between start time and end time
-https://github.com/usegutierrez/process-analyzer/blob/master/src/main/resources/screenshot.png
+![ScreenShot] (https://github.com/usegutierrez/process-analyzer/blob/master/src/main/resources/screenshot.png)
 ## Getting Started
 
 ### Prerequisites
