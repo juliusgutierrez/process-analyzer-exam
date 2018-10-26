@@ -16,6 +16,10 @@ Analyze a TSV file to find ID with highest consumption between start time and en
 ```
 mvn spring-boot:run
 ```
+### Sample TSV file
+```
+https://github.com/usegutierrez/process-analyzer/blob/master/src/main/resources/log.tsv
+```
 
 
   
